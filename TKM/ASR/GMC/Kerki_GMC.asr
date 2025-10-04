@@ -1,0 +1,32 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UTAE Ground Freetext\1:freetext
+Free Text:UTAE Ground Freetext\2:freetext
+Free Text:UTAE Ground Freetext\A:freetext
+Free Text:UTAE Ground Freetext\H1:freetext
+Free Text:UTAE Ground Freetext\H2:freetext
+Free Text:UTAE Ground Freetext\H3:freetext
+Free Text:UTAE Ground Freetext\H4:freetext
+Geo:UTAE Groundlayout:
+Regions:UTAE Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:308.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:37.806680:65.102934:37.835365:65.168292
+PLUGIN:Ground Radar plugin:AirportElevation:798
+PLUGIN:Ground Radar plugin:AirportRadius:1.5
+PLUGIN:Ground Radar plugin:GroundMode:UTAE
+PLUGIN:TopSky plugin:NoDraw:1

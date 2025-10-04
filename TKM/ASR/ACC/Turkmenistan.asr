@@ -1,0 +1,190 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Central Asia\Turkmenistan\Turkmenistan Development\TKM-Development-Package_20251004175034-251001-0001.sct
+SECTORTITLE:TKM-Development-Package_20251004175034-251001-0001.sct
+ARTCC boundary:UTAA FIR:
+ARTCC boundary:UTAA_CTR:
+ARTCC boundary:UTAV FIR:
+ARTCC boundary:UTAV_ACC:
+ARTCC high boundary:UTAA APP:
+ARTCC high boundary:UTAA_APP:
+ARTCC high boundary:UTAK_CTR:
+ARTCC high boundary:UTAT APP:
+ARTCC high boundary:UTAT_CTR:
+ARTCC high boundary:UTAV APP:
+ARTCC low boundary:UTAA TWR:
+ARTCC low boundary:UTAE TWR:
+ARTCC low boundary:UTAE_TWR:
+ARTCC low boundary:UTAK_R_APP:
+ARTCC low boundary:UTAM R_APP:
+ARTCC low boundary:UTAM TWR:
+ARTCC low boundary:UTAM_R_APP:
+ARTCC low boundary:UTAN_TWR:
+ARTCC low boundary:UTAT FIR:
+ARTCC low boundary:UTAT TWR:
+ARTCC low boundary:UTAT_APP:
+ARTCC low boundary:UTAV_R_APP:
+Runways:UTAA 11L-29R:centerline
+Runways:UTAA 11L-29R:extended centerline 1
+Runways:UTAA 11L-29R:extended centerline 1 left base
+Runways:UTAA 11L-29R:extended centerline 1 left ticks
+Runways:UTAA 11L-29R:extended centerline 1 left vectoring
+Runways:UTAA 11L-29R:extended centerline 1 right base
+Runways:UTAA 11L-29R:extended centerline 1 right ticks
+Runways:UTAA 11L-29R:extended centerline 1 right vectoring
+Runways:UTAA 11L-29R:extended centerline 2
+Runways:UTAA 11L-29R:extended centerline 2 left base
+Runways:UTAA 11L-29R:extended centerline 2 left ticks
+Runways:UTAA 11L-29R:extended centerline 2 left vectoring
+Runways:UTAA 11L-29R:extended centerline 2 right base
+Runways:UTAA 11L-29R:extended centerline 2 right ticks
+Runways:UTAA 11L-29R:extended centerline 2 right vectoring
+Runways:UTAA 11R-29L:centerline
+Runways:UTAA 11R-29L:extended centerline 1
+Runways:UTAA 11R-29L:extended centerline 1 left base
+Runways:UTAA 11R-29L:extended centerline 1 left ticks
+Runways:UTAA 11R-29L:extended centerline 1 left vectoring
+Runways:UTAA 11R-29L:extended centerline 1 right base
+Runways:UTAA 11R-29L:extended centerline 1 right ticks
+Runways:UTAA 11R-29L:extended centerline 1 right vectoring
+Runways:UTAA 11R-29L:extended centerline 2
+Runways:UTAA 11R-29L:extended centerline 2 left base
+Runways:UTAA 11R-29L:extended centerline 2 left ticks
+Runways:UTAA 11R-29L:extended centerline 2 left vectoring
+Runways:UTAA 11R-29L:extended centerline 2 right base
+Runways:UTAA 11R-29L:extended centerline 2 right ticks
+Runways:UTAA 11R-29L:extended centerline 2 right vectoring
+Runways:UTAE 16-34:centerline
+Runways:UTAE 16-34:extended centerline 1
+Runways:UTAE 16-34:extended centerline 1 left base
+Runways:UTAE 16-34:extended centerline 1 left ticks
+Runways:UTAE 16-34:extended centerline 1 left vectoring
+Runways:UTAE 16-34:extended centerline 1 right base
+Runways:UTAE 16-34:extended centerline 1 right ticks
+Runways:UTAE 16-34:extended centerline 1 right vectoring
+Runways:UTAE 16-34:extended centerline 2
+Runways:UTAE 16-34:extended centerline 2 left base
+Runways:UTAE 16-34:extended centerline 2 left ticks
+Runways:UTAE 16-34:extended centerline 2 left vectoring
+Runways:UTAE 16-34:extended centerline 2 right base
+Runways:UTAE 16-34:extended centerline 2 right ticks
+Runways:UTAE 16-34:extended centerline 2 right vectoring
+Runways:UTAK 16L-34R:centerline
+Runways:UTAK 16L-34R:extended centerline 1
+Runways:UTAK 16L-34R:extended centerline 1 left base
+Runways:UTAK 16L-34R:extended centerline 1 left ticks
+Runways:UTAK 16L-34R:extended centerline 1 left vectoring
+Runways:UTAK 16L-34R:extended centerline 1 right base
+Runways:UTAK 16L-34R:extended centerline 1 right ticks
+Runways:UTAK 16L-34R:extended centerline 1 right vectoring
+Runways:UTAK 16L-34R:extended centerline 2
+Runways:UTAK 16L-34R:extended centerline 2 left base
+Runways:UTAK 16L-34R:extended centerline 2 left ticks
+Runways:UTAK 16L-34R:extended centerline 2 left vectoring
+Runways:UTAK 16L-34R:extended centerline 2 right base
+Runways:UTAK 16L-34R:extended centerline 2 right ticks
+Runways:UTAK 16L-34R:extended centerline 2 right vectoring
+Runways:UTAK 16R-34L:centerline
+Runways:UTAK 16R-34L:extended centerline 1
+Runways:UTAK 16R-34L:extended centerline 1 left base
+Runways:UTAK 16R-34L:extended centerline 1 left ticks
+Runways:UTAK 16R-34L:extended centerline 1 left vectoring
+Runways:UTAK 16R-34L:extended centerline 1 right base
+Runways:UTAK 16R-34L:extended centerline 1 right ticks
+Runways:UTAK 16R-34L:extended centerline 1 right vectoring
+Runways:UTAK 16R-34L:extended centerline 2
+Runways:UTAK 16R-34L:extended centerline 2 left base
+Runways:UTAK 16R-34L:extended centerline 2 left ticks
+Runways:UTAK 16R-34L:extended centerline 2 left vectoring
+Runways:UTAK 16R-34L:extended centerline 2 right base
+Runways:UTAK 16R-34L:extended centerline 2 right ticks
+Runways:UTAK 16R-34L:extended centerline 2 right vectoring
+Runways:UTAM 17L-35R:centerline
+Runways:UTAM 17L-35R:extended centerline 1
+Runways:UTAM 17L-35R:extended centerline 1 left base
+Runways:UTAM 17L-35R:extended centerline 1 left ticks
+Runways:UTAM 17L-35R:extended centerline 1 left vectoring
+Runways:UTAM 17L-35R:extended centerline 1 right base
+Runways:UTAM 17L-35R:extended centerline 1 right ticks
+Runways:UTAM 17L-35R:extended centerline 1 right vectoring
+Runways:UTAM 17L-35R:extended centerline 2
+Runways:UTAM 17L-35R:extended centerline 2 left base
+Runways:UTAM 17L-35R:extended centerline 2 left ticks
+Runways:UTAM 17L-35R:extended centerline 2 left vectoring
+Runways:UTAM 17L-35R:extended centerline 2 right base
+Runways:UTAM 17L-35R:extended centerline 2 right ticks
+Runways:UTAM 17L-35R:extended centerline 2 right vectoring
+Runways:UTAM 17R-35L:centerline
+Runways:UTAM 17R-35L:extended centerline 1
+Runways:UTAM 17R-35L:extended centerline 1 left base
+Runways:UTAM 17R-35L:extended centerline 1 left ticks
+Runways:UTAM 17R-35L:extended centerline 1 left vectoring
+Runways:UTAM 17R-35L:extended centerline 1 right base
+Runways:UTAM 17R-35L:extended centerline 1 right ticks
+Runways:UTAM 17R-35L:extended centerline 1 right vectoring
+Runways:UTAM 17R-35L:extended centerline 2
+Runways:UTAM 17R-35L:extended centerline 2 left base
+Runways:UTAM 17R-35L:extended centerline 2 left ticks
+Runways:UTAM 17R-35L:extended centerline 2 left vectoring
+Runways:UTAM 17R-35L:extended centerline 2 right base
+Runways:UTAM 17R-35L:extended centerline 2 right ticks
+Runways:UTAM 17R-35L:extended centerline 2 right vectoring
+Runways:UTAN 16-34:extended centerline 1
+Runways:UTAN 16-34:extended centerline 1 left base
+Runways:UTAN 16-34:extended centerline 1 left ticks
+Runways:UTAN 16-34:extended centerline 1 left vectoring
+Runways:UTAN 16-34:extended centerline 1 right base
+Runways:UTAN 16-34:extended centerline 1 right ticks
+Runways:UTAN 16-34:extended centerline 1 right vectoring
+Runways:UTAN 16-34:extended centerline 2
+Runways:UTAN 16-34:extended centerline 2 left base
+Runways:UTAN 16-34:extended centerline 2 left ticks
+Runways:UTAN 16-34:extended centerline 2 left vectoring
+Runways:UTAN 16-34:extended centerline 2 right base
+Runways:UTAN 16-34:extended centerline 2 right ticks
+Runways:UTAN 16-34:extended centerline 2 right vectoring
+Runways:UTAT 08-26:centerline
+Runways:UTAT 08-26:extended centerline 1
+Runways:UTAT 08-26:extended centerline 1 left base
+Runways:UTAT 08-26:extended centerline 1 left ticks
+Runways:UTAT 08-26:extended centerline 1 left vectoring
+Runways:UTAT 08-26:extended centerline 1 right base
+Runways:UTAT 08-26:extended centerline 1 right ticks
+Runways:UTAT 08-26:extended centerline 1 right vectoring
+Runways:UTAT 08-26:extended centerline 2
+Runways:UTAT 08-26:extended centerline 2 left base
+Runways:UTAT 08-26:extended centerline 2 left ticks
+Runways:UTAT 08-26:extended centerline 2 left vectoring
+Runways:UTAT 08-26:extended centerline 2 right base
+Runways:UTAT 08-26:extended centerline 2 right ticks
+Runways:UTAT 08-26:extended centerline 2 right vectoring
+Runways:UTAV 13-31:centerline
+Runways:UTAV 13-31:extended centerline 1
+Runways:UTAV 13-31:extended centerline 1 left base
+Runways:UTAV 13-31:extended centerline 1 left ticks
+Runways:UTAV 13-31:extended centerline 1 left vectoring
+Runways:UTAV 13-31:extended centerline 1 right base
+Runways:UTAV 13-31:extended centerline 1 right ticks
+Runways:UTAV 13-31:extended centerline 1 right vectoring
+Runways:UTAV 13-31:extended centerline 2
+Runways:UTAV 13-31:extended centerline 2 left base
+Runways:UTAV 13-31:extended centerline 2 left ticks
+Runways:UTAV 13-31:extended centerline 2 left vectoring
+Runways:UTAV 13-31:extended centerline 2 right base
+Runways:UTAV 13-31:extended centerline 2 right ticks
+Runways:UTAV 13-31:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ATM System Alpha 5
+WINDOWAREA:33.973846:47.148538:43.907954:69.782766
