@@ -1,6 +1,0 @@
-VOICE
-AG:UTAT_APP Dashoguz Approach:124.700
-AG:UTAT_ATIS:121.500
-AG:UTAT_CTR Dashoguz Control:133.800
-AG:UTAT_TWR Dashoguz Tower:122.700
-END
