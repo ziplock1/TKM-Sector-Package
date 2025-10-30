@@ -1,3 +1,0 @@
-UTAT_CTR Dashoguz Control
-UTAT_APP Dashoguz Approach
-UTAT_TWR Dashoguz Tower
